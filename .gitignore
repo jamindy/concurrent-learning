@@ -1,2 +1,9 @@
+target
 *.iml
-target/ 
+out/
+.idea
+.classpath
+.project
+.settings/
+bin/
+.myeclipse
